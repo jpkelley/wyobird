@@ -13,3 +13,4 @@
 [1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: false\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  collections:\n    ind_profiles:\n      output: false\n    activity_profiles:\n      output: false\n  editor: visual\n  theme:\n    - cosmo\n  title: WYOBIRD\n  title-block-banner: images/headers/title_banner_frontpage4.png\n  listing:\n    - id: news\n      contents: news/latest_news.yml\n      type: grid\n      sort: date desc\n      fields:\n        - title\n        - date\n  \n"]
 [1,"Output created: _site\\index.html\n\nWatching files for changes\n"]
 [1,"GET: /\n"]
+[1,"GET: /\n"]
