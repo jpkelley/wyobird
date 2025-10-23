@@ -1,13 +1,6 @@
 ---
 title: "WYOBIRD"
 title-block-banner: images/headers/title_banner_frontpage4.png
-listing:
-  - id: news
-    contents: "news/latest_news.yml"
-    type: grid
-    sort: "date desc"
-    fields: [title, date]
-toc: false
 ---
 
 ::: {.callout .givingday title=""}
