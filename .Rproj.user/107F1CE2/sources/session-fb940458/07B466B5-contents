@@ -1,9 +1,0 @@
----
-title: "Quantitative Workshops"
-name: "Quantitative Workshops"
-image: "/activities/images/workshop_header.jpg"
-research: "WYOBIRD also aims to provide new quantitative skills for students, as well as faculty, by facilitating on-campus workshops that cover cutting-edge themes. In fall 2023, this included a workshop led by invited instructors from Cornell University's Laboratory of Ornithology on analyzing eBird datasets. In Spring 2024, Dr. Gabe Barille (UW) gave a multi-day workshop on using the package RMark for demographic analysis."
-format:
-  html:
-    toc: FALSE
----
