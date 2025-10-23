@@ -1,0 +1,10 @@
+---
+title: "Reina Galvan"
+name: "Reina Galvan"
+image: "/people/images/profile_pics/reina_galvan.jpg"
+research: "Mechanisms of bird declines in Panama"
+format:
+  html:
+    toc: FALSE
+---
+

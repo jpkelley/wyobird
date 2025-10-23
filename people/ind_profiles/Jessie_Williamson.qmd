@@ -1,0 +1,11 @@
+---
+title: "Jessie Williamson"
+name: "Jessie Williamson"
+role: "Associate Director WYOBIRD; Lab Principal Investigator"
+image: "/people/images/profile_pics/jessie_williamson.jpg"
+research: "Impacts of elevation on the migration, physiology, and genomic divergence of birds."
+format:
+  html:
+    toc: FALSE
+---
+

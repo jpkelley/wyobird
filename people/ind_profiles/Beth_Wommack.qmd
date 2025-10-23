@@ -1,0 +1,10 @@
+---
+title: "Beth Wommack"
+name: "Beth Wommack"
+image: "/people/images/profile_pics/beth_wommack.jpg"
+research: "Museum management; staff curator at the University of Wyoming Museum of Vertebrates"
+format:
+  html:
+    toc: FALSE
+---
+

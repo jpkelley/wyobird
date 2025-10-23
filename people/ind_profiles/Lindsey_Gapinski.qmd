@@ -1,0 +1,10 @@
+---
+title: "Lindsey Gapinski"
+name: "Lindsey Gapinski"
+image: "/people/images/profile_pics/lindsey_gapinski.jpg"
+research: "Mechanisms underlying declines in forest-dwelling birds of the western United States at different spatial and temporal scales"
+format:
+  html:
+    toc: FALSE
+---
+

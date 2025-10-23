@@ -1,0 +1,20 @@
+- title: "Neural Weather Predictor"
+  date: 2025-07-15
+  description: "An ML model predicting local weather with transformer architectures."
+  image: images/weather.jpg
+  link: projects/weather.qmd
+  featured: true
+
+- title: "AI Art Generator"
+  date: 2025-05-03
+  description: "A diffusion-based art generator that creates surreal landscape paintings."
+  image: images/ai-art.jpg
+  link: projects/ai-art.qmd
+  featured: false
+
+- title: "Voice Analyzer"
+  date: 2025-01-25
+  description: "Analyzes speech patterns to detect stress and sentiment."
+  image: images/voice.jpg
+  link: projects/voice.qmd
+  featured: true

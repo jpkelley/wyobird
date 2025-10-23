@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: ""
+  favicon: /images/headers/favicon.ico
+  navbar:
+    logo: "images/headers/navbar_logo.png"
+    right:
+      - href: index.qmd
+        text: home
+      - href: "people/people.qmd"
+        text: people
+      - href: "projects/projects.qmd"
+        text: projects
+      - href: "activities/activities.qmd"
+        text: activities
+      - href: "get_involved/get_involved.qmd"
+        text: get involved
+      - href: "support/support_us.qmd"
+        text: support us!
+
+collections:
+  ind_profiles:
+    output: false
+  activity_profiles:
+    output: false
+    
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: false
+    include-in-header: _includes/fonts.html
+editor: visual
+

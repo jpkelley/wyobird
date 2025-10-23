@@ -1,0 +1,10 @@
+---
+title: "Garrett Higgins"
+name: "Garrett Higgins"
+image: "/people/images/profile_pics/garrett_higgins.jpg"
+research: "Frugivore-plant interaction in novel ecosystems"
+format:
+  html:
+    toc: FALSE
+---
+

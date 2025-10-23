@@ -1,0 +1,10 @@
+---
+title: "Katie Schabron"
+name: "Katie Schabron"
+image: "/people/images/profile_pics/katie_schabron.jpg"
+research: "Influence of campus architectire on bird-window collision dynamics (UW Bird-Window Collision Project)"
+format:
+  html:
+    toc: FALSE
+---
+

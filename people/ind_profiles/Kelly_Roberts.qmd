@@ -1,0 +1,10 @@
+---
+title: "Kelly Roberts"
+name: "Kelly Roberts"
+image: "/people/images/profile_pics/kelly_roberts.jpg"
+research: "Competition, delayed dispersal, sociality,"
+format:
+  html:
+    toc: FALSE
+---
+

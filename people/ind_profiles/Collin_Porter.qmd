@@ -1,0 +1,10 @@
+---
+title: "Collin Porter"
+name: "Collin Porter"
+image: "/people/images/profile_pics/collin_porter.jpg"
+research: "Migration and ecological physiology of Gray-crowned Rosy-finches"
+format:
+  html:
+    toc: FALSE
+---
+

@@ -1,0 +1,11 @@
+---
+title: "Corey Tarwater"
+name: "Corey Tarwater"
+role: "Director WYOBIRD, Lab Principal Investigator"
+image: "/people/images/profile_pics/corey_tarwater.jpg"
+research: "Population and community-level response to large and fine-scale environmental change"
+format:
+  html:
+    toc: FALSE
+---
+

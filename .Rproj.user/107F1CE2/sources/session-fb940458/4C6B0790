@@ -1,0 +1,31 @@
+{
+    "id": "4C6B0790",
+    "path": "~/GitHub_projects/wyobird/activities/activity_profiles/networking.qmd",
+    "project_path": "activities/activity_profiles/networking.qmd",
+    "type": "quarto_markdown",
+    "hash": "1156251611",
+    "contents": "",
+    "dirty": false,
+    "created": 1761197725168.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "641:0",
+        "cursorPosition": "6,448",
+        "scrollLine": "5"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1761236427,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1761236427620,
+    "read_only": false,
+    "read_only_alternatives": []
+}

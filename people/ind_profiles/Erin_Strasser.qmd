@@ -1,0 +1,10 @@
+---
+title: "Erin Strasser"
+name: "Erin Strasser"
+image: "/people/images/profile_pics/erin_strasser.jpg"
+research: "Integration of sustainable human development with the conservation of migratory birds across their full annual cycle"
+format:
+  html:
+    toc: FALSE
+---
+

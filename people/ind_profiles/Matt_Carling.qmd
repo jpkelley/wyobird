@@ -1,0 +1,11 @@
+---
+title: "Matt Carling"
+name: "Matt Carling"
+role: "Associate Director WYOBIRD; Lab Principal Investigator"
+image: "/people/images/profile_pics/matt_carling.jpg"
+research: "Adaptation and speciation in birds."
+format:
+  html:
+    toc: FALSE
+---
+

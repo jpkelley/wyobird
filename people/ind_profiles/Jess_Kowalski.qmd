@@ -1,0 +1,10 @@
+---
+title: "Jess Kowalski"
+name: "Jess Kowalski"
+image: "/people/images/profile_pics/jess_kowalski.jpg"
+research: "Neighbor-stranger discrimination in chestnut-backed antbirds (Poliocrania exsul) in Panama"
+format:
+  html:
+    toc: FALSE
+---
+

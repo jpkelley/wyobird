@@ -1,0 +1,10 @@
+---
+title: "Michael Castano"
+name: "Michael Castano"
+image: "/people/images/profile_pics/michael_castano.jpg"
+research: "Mechanisms of community structuring in tropical birds"
+format:
+  html:
+    toc: FALSE
+---
+

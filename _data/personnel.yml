@@ -1,0 +1,150 @@
+- id: anna_chalfoun
+  name: Anna Chalfoun
+  research: Processes and factors that influence wildlife-habitat relationships in
+    birds, mammals, and herpetofauna
+  image: images/people/anna_chalfoun.jpg
+  role: Co-director WYOBIRD; Lab Principal Investigator
+- id: don_jones
+  name: Don Jones
+  research: Prevalence and fitness effects of ectoparasites in sagebrush songbirds
+  image: images/people/don_jones.jpg
+- id: emily_shertzer
+  name: Emily Shertzer
+  research: Full life-cycle effects of human-induced habitat change on sagebrush obligate
+    songbirds
+  image: images/people/emily_shertzer.jpg
+- id: erik_schoenborn
+  name: Erik Schoenborn
+  research: Habitat selection based spatial trade-offs, site fidelity, and full annual
+    cycle spatial use of Loggerhead Shrikes
+  image: images/people/erik_schoenborn.jpg
+- id: josh_layfield
+  name: Josh Layfield
+  research: Investigating factors modulating the use of risky habitats by golden eagles
+    in Wyoming
+  image: images/people/josh_layfield.jpg
+- id: olivia_beaudette
+  name: Olivia Beaudette
+  research: Bottom-up influences on juvenile fitness in a suite of declining songbirds
+  image: images/people/olivia_beaudette.jpg
+- id: erin_stewart
+  name: Erin Stewart
+  research: Resource holding potential in territorial tropical birds
+  image: images/people/erin_stewart.jpg
+- id: michael_castano
+  name: Michael Castano
+  research: Mechanisms of community structuring in tropical birds
+  image: images/people/michael_castano.jpg
+- id: patrick_kelley
+  name: Patrick Kelley
+  research: Animal behavior and ecological analysis
+  image: images/people/patrick_kelley.jpg
+  role: Co-director WYOBIRD; Lab Principal Investigator
+- id: corey_tarwater
+  name: Corey Tarwater
+  research: Population and community-level response to large and fine-scale environmental
+    change
+  image: images/people/corey_tarwater.jpg
+  role: Director WYOBIRD, Lab Principal Investigator
+- id: kelly_roberts
+  name: Kelly Roberts
+  research: Competition, delayed dispersal, sociality,
+  image: images/people/kelly_roberts.jpg
+- id: kim_jordan
+  name: Kim Jordan
+  research: Species traits, temporal variation in demography, synchrony
+  image: images/people/kim_jordan.jpg
+- id: mary_de aquino
+  name: Mary De Aquino
+  research: Niche partitioning, species roles, and the impacts of species loss in
+    ant-following birds
+  image: images/people/mary_deaquino.jpg
+- id: reina_galvan
+  name: Reina Galvan
+  research: Mechanisms of bird declines in Panama
+  image: images/people/reina_galvan.jpg
+- id: beth_wommack
+  name: Beth Wommack
+  research: Museum management; staff curator at the University of Wyoming Museum of
+    Vertebrates
+  image: images/people/beth_wommack.jpg
+- id: lindsey_gapinski
+  name: Lindsey Gapinski
+  research: Mechanisms underlying declines in forest-dwelling birds of the western
+    United States at different spatial and temporal scales
+  image: images/people/lindsey_gapinski.jpg
+- id: sarah_palmieri
+  name: Sarah Palmieri
+  research: Relationship between male plumage, song and genetic ancestry in the Passerina
+    bunting hybrid zone.
+  image: images/people/sarah_palmieri.jpg
+- id: amanda_norton
+  name: Amanda Norton
+  research: Influence of grazing strategies on cattle behavior and downstream effects
+    on songbird nesting success and diversity
+  image: images/people/amanda_norton.jpg
+- id: matt_carling
+  name: Matt Carling
+  research: Adaptation and speciation in birds.
+  image: images/people/matt_carling.jpg
+  role: Co-director WYOBIRD; Lab Principal Investigator
+- id: jessie_williamson
+  name: Jessie Williamson
+  research: Impacts of elevation on the migration, physiology, and genomic divergence
+    of birds.
+  image: images/people/jessie_williamson.jpg
+  role: Co-director WYOBIRD; Lab Principal Investigator
+- id: erin_strasser
+  name: Erin Strasser
+  research: Integration of sustainable human development with the conservation of
+    migratory birds across their full annual cycle
+  image: images/people/erin_strasser.jpg
+- id: bri_agenbroad
+  name: Bri Agenbroad
+  research: Influence of competition on ant-following birds attending army ant swarms
+  image: images/people/bri_agenbroad.jpg
+- id: liz_howard
+  name: Liz Howard
+  research: Space use of ant-following birds based on prey and dominance
+  image: images/people/liz_howard.jpg
+- id: katie_schabron
+  name: Katie Schabron
+  research: Influence of campus architectire on bird-window collision dynamics (UW
+    Bird-Window Collision Project)
+  image: images/people/katie_schabron.jpg
+- id: paul_dougherty
+  name: Paul Dougherty
+  research: Implications of adaptive variation in molting behavior for diversifcation
+    in and conservation of North American passerines
+  image: images/people/paul_dougherty.jpg
+- id: austin_barth
+  name: Austin Barth
+  research: Contest assessment strategies and memory in chestnut-backed antbirds (Poliocrania
+    exsul) in Panama
+  image: images/people/austin_barth.jpg
+- id: jess_kowalski
+  name: Jess Kowalski
+  research: Neighbor-stranger discrimination in chestnut-backed antbirds (Poliocrania
+    exsul) in Panama
+  image: images/people/jess_kowalski.jpg
+- id: marcus_anderson
+  name: Marcus Anderson
+  research: Correlates of risk-averse foraging in army-ant following birds
+  image: images/people/marcus_anderson.jpg
+- id: zach_holmes
+  name: Zach Holmes
+  research: Mechanisms of fruit-tracking by avian frugivores in a novel ecosystem
+  image: images/people/zach_holmes.jpg
+- id: garrett_higgins
+  name: Garrett Higgins
+  research: Frugivore-plant interaction in novel ecosystems
+  image: images/people/garrett_higgins.jpg
+- id: collin_porter
+  name: Collin Porter
+  research: Migration and ecological physiology of Gray-crowned Rosy-finches
+  image: images/people/collin_porter.jpg
+- id: margie_hemp
+  name: Margie Hemp
+  research: Effects of temperature and hypoxia on wing morphology, behavior, and physiology
+    of Andean hummingbirds
+  image: images/people/margie_hemp.jpg

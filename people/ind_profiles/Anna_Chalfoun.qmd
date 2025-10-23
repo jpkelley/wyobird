@@ -1,0 +1,11 @@
+---
+title: "Anna Chalfoun"
+name: "Anna Chalfoun"
+role: "Associate Director WYOBIRD; Lab Principal Investigator"
+image: "/people/images/profile_pics/anna_chalfoun.jpg"
+research: "Processes and factors that influence wildlife-habitat relationships in birds, mammals, and herpetofauna"
+format:
+  html:
+    toc: FALSE
+---
+

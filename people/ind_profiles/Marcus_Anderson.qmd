@@ -1,0 +1,10 @@
+---
+title: "Marcus Anderson"
+name: "Marcus Anderson"
+image: "/people/images/profile_pics/marcus_anderson.jpg"
+research: "Correlates of risk-averse foraging in army-ant following birds"
+format:
+  html:
+    toc: FALSE
+---
+

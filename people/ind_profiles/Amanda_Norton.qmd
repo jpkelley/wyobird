@@ -1,0 +1,10 @@
+---
+title: "Amanda Norton"
+name: "Amanda Norton"
+image: "/people/images/profile_pics/amanda_norton.jpg"
+research: "Influence of grazing strategies on cattle behavior and downstream effects on songbird nesting success and diversity"
+format:
+  html:
+    toc: FALSE
+---
+

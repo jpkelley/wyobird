@@ -1,0 +1,10 @@
+---
+title: "Emily Shertzer"
+name: "Emily Shertzer"
+image: "/people/images/profile_pics/emily_shertzer.jpg"
+research: "Full life-cycle effects of human-induced habitat change on sagebrush obligate songbirds"
+format:
+  html:
+    toc: FALSE
+---
+

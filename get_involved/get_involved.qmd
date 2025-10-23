@@ -1,0 +1,30 @@
+---
+title: "Get Involved!"
+title-block-banner: ../images/headers/getinvolved_header.png
+toc: false
+---
+
+## Join our team!
+
+Want to get involved with WYOBIRD? Are you a University of Wyoming student or prospective student interested in funding you own research or gaining credit hours? Check out the following groups to see what they have to offer. [Contact us via email](mailto:wyobird@uwyo.edu) if you have questions or would like to collaborate!
+
+- **Corey Tarwater (Director, WYOBIRD)** – ecology and demography of tropical bird species
+- **Anna Chalfoun (Associate Director, WYOBIRD)** – wildlife-habitat relationships, especially of songbirds in sagebrush systems
+- **Matt Carling (Associate Director, WYOBIRD)** - patterns and mechanisms underlying speciation in adaptation in birds
+- **Jessie Williamson (Associate Director, WYOBIRD)** – evolutionary physiology in mountain birds
+- **Patrick Kelley (Associate Director, WYOBIRD)** - behavioral ecology of tropical birds
+
+## What kind of research?
+
+There are many research experiences that you can have as part of WYOBIRD. Some undergraduates work on the Hutton Nest Box Study during the Summer, while others spend a few mornings in Laramie capturing and banding birds. Recently, WYOBIRD Faculty have used funds to support undergraduate field research in Wyoming, Hawaii, and in central Panama. Many of the WYOBIRD labs always have opening for volunteer positions to let you get your foot into the research door. These projects may involve tasks as varied as bioacoustic analysis, image analysis, or reviewing and annotating videos or images for machine learning tasks,  
+
+Join us today!
+
+::: {.callout .testimonial}
+
+> "This internship gives me actual experience with the concepts I am trying to learn in class. I am a kinesthetic learner, so this project is a golden opportunity to truly understand how this career looks in the field and how my lecture topics are related."
+>
+> — T.T. (undergraduate intern, Fall 2023)
+
+:::
+ 

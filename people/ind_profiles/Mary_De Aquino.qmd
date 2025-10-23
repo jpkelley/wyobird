@@ -1,0 +1,10 @@
+---
+title: "Mary De Aquino"
+name: "Mary De Aquino"
+image: "/people/images/profile_pics/mary_deaquino.jpg"
+research: "Niche partitioning, species roles, and the impacts of species loss in ant-following birds"
+format:
+  html:
+    toc: FALSE
+---
+

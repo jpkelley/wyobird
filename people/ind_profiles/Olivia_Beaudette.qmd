@@ -1,0 +1,10 @@
+---
+title: "Olivia Beaudette"
+name: "Olivia Beaudette"
+image: "/people/images/profile_pics/olivia_beaudette.jpg"
+research: "Bottom-up influences on juvenile fitness in a suite of declining songbirds"
+format:
+  html:
+    toc: FALSE
+---
+

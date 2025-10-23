@@ -1,0 +1,11 @@
+---
+title: "Patrick Kelley"
+name: "Patrick Kelley"
+role: "Associate Director WYOBIRD; Lab Principal Investigator"
+image: "/people/images/profile_pics/patrick_kelley.jpg"
+research: "Animal behavior and ecological analysis"
+format:
+  html:
+    toc: FALSE
+---
+

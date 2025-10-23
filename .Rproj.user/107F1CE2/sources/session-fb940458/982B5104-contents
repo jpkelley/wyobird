@@ -1,0 +1,34 @@
+---
+title: "WYOBIRD"
+title-block-banner: images/headers/title_banner_frontpage4.png
+listing:
+  - id: news
+    contents: "news/latest_news.yml"
+    type: grid
+    sort: "date desc"
+    fields: [title, date]
+toc: false
+---
+
+::: {.callout .givingday title=""}
+**UW Giving Day starts today (October 23, 2025) at noon!**
+
+Help WYOBIRD support training undergraduates and providing more outreach opportunities to the public! Last year, your contributions helped support hands-on training of 25 undergraduates!
+
+[Contribute to our campaign](https://give.uwyo.edu/schools/UniversityofWyoming/giving-day-2025/pages/CALSNR/wyobird){.btn .btn-success target="_blank"}
+:::
+
+
+::: {.hero}
+The Wyoming Bird Initiative for Resilience and Diversity (WYOBIRD) is based out of the University of Wyoming. Our mission is to advance knowledge, appreciation, and conservation of birds locally and globally and we achieve this by conducting novel research on birds, training a new generation of scientists, and sharing science through public outreach. WYOBIRD seeks to understand how birds respond to a changing world and to build resilience in the field of ornithology. We promote all aspects of diversity, from the diversity of avian species and research approaches to the people conducting research. 
+:::
+
+
+Traditional university coursework often does not include a field component yet students often need basic field skills to secure employment or advanced degrees (MS or PhD). With WYOBIRD we support avian research at the University of Wyoming, while offering internships, workshops, and outreach activities that expose students to field and quantitative methods used to study and conserve birds. We also build community by supporting meetups with avian researchers beyond UW. Check out our Projects and Activities pages to learn more about what we achieve with WYOBIRD.
+
+::: {.callout .testimonial}
+> "WYOBIRD has been such an exciting new initiative with which to be affiliated. Apart from providing students with opportunities to learn from other faculty and students conducting research on birds, getting to observe the excitement of students handling wild birds for the first time is very meaningful. We look forward to growing WYOBIRD and expanding our efforts to include public outreach that will hopefully increase awareness about the plight of declining birds, both locally and worldwide. "
+>
+> — Anna Chalfoun (Associate Director of WYOBIRD)
+:::
+

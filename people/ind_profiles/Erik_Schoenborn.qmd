@@ -1,0 +1,10 @@
+---
+title: "Erik Schoenborn"
+name: "Erik Schoenborn"
+image: "/people/images/profile_pics/erik_schoenborn.jpg"
+research: "Habitat selection based spatial trade-offs, site fidelity, and full annual cycle spatial use of Loggerhead Shrikes"
+format:
+  html:
+    toc: FALSE
+---
+

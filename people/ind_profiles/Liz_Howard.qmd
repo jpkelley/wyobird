@@ -1,0 +1,10 @@
+---
+title: "Liz Howard"
+name: "Liz Howard"
+image: "/people/images/profile_pics/liz_howard.jpg"
+research: "Space use of ant-following birds based on prey and dominance"
+format:
+  html:
+    toc: FALSE
+---
+

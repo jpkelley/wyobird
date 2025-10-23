@@ -1,0 +1,10 @@
+---
+title: "Josh Layfield"
+name: "Josh Layfield"
+image: "/people/images/profile_pics/josh_layfield.jpg"
+research: "Investigating factors modulating the use of risky habitats by golden eagles in Wyoming"
+format:
+  html:
+    toc: FALSE
+---
+

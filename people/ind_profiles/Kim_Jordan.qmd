@@ -1,0 +1,10 @@
+---
+title: "Kim Jordan"
+name: "Kim Jordan"
+image: "/people/images/profile_pics/kim_jordan.jpg"
+research: "Species traits, temporal variation in demography, synchrony"
+format:
+  html:
+    toc: FALSE
+---
+

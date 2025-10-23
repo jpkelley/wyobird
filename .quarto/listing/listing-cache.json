@@ -1,0 +1,24 @@
+{
+  "listingMap": {
+    "people\\people.qmd": [
+      "people/ind_profiles",
+      "ind_profiles/.qmd",
+      "ind_profiles/*.qmd",
+      "ind_profiles"
+    ],
+    "index.qmd": [
+      "news/latest_news.yml"
+    ],
+    "activities\\activities.qmd": [
+      "news/latest_news.yml",
+      "activity_profiles"
+    ],
+    "get_involved\\get_involved.qmd": [
+      "news/latest_news.yml"
+    ],
+    "projects\\projects.qmd": [
+      "news/latest_news.yml",
+      "projects_profiles"
+    ]
+  }
+}

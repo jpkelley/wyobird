@@ -1,0 +1,62 @@
+[
+  {
+    "listing": "/people/people.html",
+    "items": [
+      "/people/ind_profiles/Amanda_Norton.html",
+      "/people/ind_profiles/Anna_Chalfoun.html",
+      "/people/ind_profiles/Austin_Barth.html",
+      "/people/ind_profiles/Beth_Wommack.html",
+      "/people/ind_profiles/Bri_Agenbroad.html",
+      "/people/ind_profiles/Collin_Porter.html",
+      "/people/ind_profiles/Corey_Tarwater.html",
+      "/people/ind_profiles/Don_Jones.html",
+      "/people/ind_profiles/Emily_Shertzer.html",
+      "/people/ind_profiles/Erik_Schoenborn.html",
+      "/people/ind_profiles/Erin_Stewart.html",
+      "/people/ind_profiles/Erin_Strasser.html",
+      "/people/ind_profiles/Garrett_Higgins.html",
+      "/people/ind_profiles/Jess_Kowalski.html",
+      "/people/ind_profiles/Jessie_Williamson.html",
+      "/people/ind_profiles/Josh_Layfield.html",
+      "/people/ind_profiles/Katie_Schabron.html",
+      "/people/ind_profiles/Kelly_Roberts.html",
+      "/people/ind_profiles/Kim_Jordan.html",
+      "/people/ind_profiles/Lindsey_Gapinski.html",
+      "/people/ind_profiles/Liz_Howard.html",
+      "/people/ind_profiles/Marcus_Anderson.html",
+      "/people/ind_profiles/Margie_Hemp.html",
+      "/people/ind_profiles/Mary_De Aquino.html",
+      "/people/ind_profiles/Matt_Carling.html",
+      "/people/ind_profiles/Michael_Castano.html",
+      "/people/ind_profiles/Olivia_Beaudette.html",
+      "/people/ind_profiles/Patrick_Kelley.html",
+      "/people/ind_profiles/Paul_Dougherty.html",
+      "/people/ind_profiles/Reina_Galvan.html",
+      "/people/ind_profiles/Sarah_Palmieri.html",
+      "/people/ind_profiles/Zach_Holmes.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/get_involved/get_involved.html",
+    "items": []
+  },
+  {
+    "listing": "/activities/activities.html",
+    "items": [
+      "/activities/activity_profiles/networking.html",
+      "/activities/activity_profiles/workshops.html",
+      "/activities/activity_profiles/scicomm.html"
+    ]
+  },
+  {
+    "listing": "/projects/projects.html",
+    "items": [
+      "/projects/projects_profiles/banding_project.html",
+      "/projects/projects_profiles/hutton_project.html"
+    ]
+  }
+]

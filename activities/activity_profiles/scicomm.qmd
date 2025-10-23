@@ -1,0 +1,9 @@
+---
+title: "Scientific Communication"
+name: "Scientific Communication"
+image: "/activities/images/scicomm.jpg"
+research: "Communicating science is a valuable skill for scientists and students alike. We use digital and in-person outreach to inform various audiences of the unique bird research that scientists and their students conduct at the University of Wyoming. This includes presenting at professional conferences or to community groups such as local Audubon societies and sharing our stories and discoveries via social media and university-sponsored media outlets."
+format:
+  html:
+    toc: FALSE
+---

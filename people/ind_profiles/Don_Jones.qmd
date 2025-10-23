@@ -1,0 +1,10 @@
+---
+title: "Don Jones"
+name: "Don Jones"
+image: "/people/images/profile_pics/don_jones.jpg"
+research: "Prevalence and fitness effects of ectoparasites in sagebrush songbirds"
+format:
+  html:
+    toc: FALSE
+---
+

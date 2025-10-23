@@ -1,0 +1,10 @@
+---
+title: "Paul Dougherty"
+name: "Paul Dougherty"
+image: "/people/images/profile_pics/paul_dougherty.jpg"
+research: "Implications of adaptive variation in molting behavior for diversifcation in and conservation of North American passerines"
+format:
+  html:
+    toc: FALSE
+---
+

@@ -1,0 +1,10 @@
+---
+title: "Sarah Palmieri"
+name: "Sarah Palmieri"
+image: "/people/images/profile_pics/sarah_palmieri.jpg"
+research: "Relationship between male plumage, song and genetic ancestry in the Passerina bunting hybrid zone."
+format:
+  html:
+    toc: FALSE
+---
+

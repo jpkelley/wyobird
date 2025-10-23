@@ -1,0 +1,38 @@
+---
+title: "Our People"
+format: html
+---
+
+# Our People
+
+Welcome to our team page! Here you can see all faculty, graduate students, and undergraduates.
+
+::: {.listing}
+title: "People"
+listing:
+  type: grid
+  # Source the data from the _data/personnel.yml file
+  contents: ../_data/personnel.yml
+  image-height: 120px
+  grid-columns: 3
+  sort: name
+  # Group by role/type
+  group-by:
+    field: role
+    map:
+      faculty: "Faculty"
+      grad: "Graduate Students"
+      undergrad: "Undergraduate Students"
+  fields:
+    - image
+    - name
+    - research
+  # Card formatting
+  card:
+    image: true
+    text: true
+    border: true
+# Optional: prepend the relative folder for images
+image-folder: "../images/people"
+:::
+

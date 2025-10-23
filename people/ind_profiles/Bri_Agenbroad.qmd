@@ -1,0 +1,10 @@
+---
+title: "Bri Agenbroad"
+name: "Bri Agenbroad"
+image: "/people/images/profile_pics/bri_agenbroad.jpg"
+research: "Influence of competition on ant-following birds attending army ant swarms"
+format:
+  html:
+    toc: FALSE
+---
+

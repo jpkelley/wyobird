@@ -1,0 +1,10 @@
+---
+title: "Erin Stewart"
+name: "Erin Stewart"
+image: "/people/images/profile_pics/erin_stewart.jpg"
+research: "Resource holding potential in territorial tropical birds"
+format:
+  html:
+    toc: FALSE
+---
+

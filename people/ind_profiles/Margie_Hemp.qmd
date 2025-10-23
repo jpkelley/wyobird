@@ -1,0 +1,10 @@
+---
+title: "Margie Hemp"
+name: "Margie Hemp"
+image: "/people/images/profile_pics/margie_hemp.jpg"
+research: "Effects of temperature and hypoxia on wing morphology, behavior, and physiology of Andean hummingbirds"
+format:
+  html:
+    toc: FALSE
+---
+
