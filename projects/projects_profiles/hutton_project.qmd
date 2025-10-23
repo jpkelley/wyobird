@@ -8,6 +8,3 @@ format:
   html:
     toc: FALSE
 ---
-
-
-

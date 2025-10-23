@@ -4,7 +4,7 @@ project:
 
 website:
   title: ""
-  favicon: /images/headers/favicon.ico
+  favicon: "images/headers/favicon.ico"
   navbar:
     logo: "images/headers/navbar_logo.png"
     right:
