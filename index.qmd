@@ -1,6 +1,6 @@
 ---
 title: "WYOBIRD"
-title-block-banner: images/headers/title_banner_frontpage4.png
+title-block-banner: images/headers/title_banner_frontpage.png
 ---
 
 ::: {.callout .givingday title=""}
